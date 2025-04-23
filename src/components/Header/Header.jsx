@@ -49,7 +49,7 @@ const Header = () => {
           <div className="nav__wrapper d-flex align-items-center justify-content-between">
             <div className="logo" onClick={() => navigate("/home")}>
               <img src={logo} alt="logo" />
-              <h5>pedarasi peddamma vantillu</h5>
+              <h5>Pedarasi Peddamma Vantillu</h5>
             </div>
 
             {/* Navigation Menu */}
